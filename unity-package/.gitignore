@@ -1,0 +1,19 @@
+# This repo is a Unity Package (UPM). If you drop it into an existing
+# Unity project instead, use Unity's standard project .gitignore for
+# Library/, Temp/, Obj/, Build/, etc. This file covers package-local junk.
+
+*.meta.bak
+*.tmp
+.DS_Store
+Thumbs.db
+
+# IDE
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.user
+
+# Secrets — never commit real keys, even in a settings asset override file.
+**/AIProviderSettings.local.asset
+.env

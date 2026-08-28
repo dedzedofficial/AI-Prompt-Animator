@@ -1,0 +1,19 @@
+{
+  "name": "com.fishhwb.rig-animator",
+  "version": "0.1.0-beta",
+  "displayName": "Rig Animator (Procedural + Clip + AI) — v0.1 Beta",
+  "description": "Unified system for animating rigs and objects in Unity: procedural bone/IK animation, clip-based playback and blending, simple transform tweening, and an AI driver that turns natural-language prompts into animation commands using any AI provider's API key. v0.1 Beta. Created by FISHHWB. Discord: https://discord.gg/vCcsnX4HQP",
+  "unity": "2021.3",
+  "keywords": [
+    "animation",
+    "rig",
+    "ik",
+    "procedural",
+    "ai"
+  ],
+  "author": {
+    "name": "FISHHWB"
+  },
+  "license": "MIT",
+  "dependencies": {}
+}
